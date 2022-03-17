@@ -1,6 +1,6 @@
 
-const userModel = require("../models/user")
-const db = require("../../config/mongodb");
+//const userModel = require("../model/user") ;
+const db = require("../../../config/mongodb");
 const { ObjectId } = require("mongodb");
 
 
